@@ -15,6 +15,7 @@ public class avg {
 		sum=a+b+c+d+e;
 		avg=sum/5;
 		System.out.println("sum is "+sum+" and average is "+avg);
+		sc.close();
 	}
 
 }

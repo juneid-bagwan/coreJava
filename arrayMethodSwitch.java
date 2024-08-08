@@ -40,7 +40,7 @@ public class arrayMethodSwitch {
 				break;
 			}
 		}
-
+		sc.close();
 	}
 
 	void even(int[] a) {
@@ -97,7 +97,7 @@ public class arrayMethodSwitch {
 			}
 
 		}
-
+		sc.close();
 	}
 
 }

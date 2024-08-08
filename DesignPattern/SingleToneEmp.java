@@ -10,8 +10,8 @@ public class SingleToneEmp {
 		
 		emp obj = emp.SetDetails();
 		emp obj1 = emp.SetDetails();
-//		System.out.println(obj.id+obj.name+obj.exp+obj.skill);
-//		System.out.println(obj1.id+obj1.name+obj1.exp+obj1.skill);
+		System.out.println(obj);
+		System.out.println(obj1);
 		
 		
 	}

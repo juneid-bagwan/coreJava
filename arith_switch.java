@@ -32,6 +32,7 @@ public class arith_switch {
 				System.out.println("not found");
 			}
 		}
+		sc.close();
 	}
 
 }

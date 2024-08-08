@@ -12,6 +12,7 @@ public class rectangle {
 		w=sc.nextInt();
 		area=l*w;
 		System.out.println("area is "+area);
+		sc.close();
 	}
 
 }

@@ -5,6 +5,7 @@ public class singleToneClass {
 	public static void main(String[] args) {
 		abc obj1=abc.getdata();
 		abc obj2=abc.getobject();
+		System.out.println(obj1+"   "+obj2);
 	}
 
 	static class abc {

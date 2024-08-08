@@ -6,6 +6,7 @@ import java.util.Queue;
 
 public class QueueDemo {
 
+	@SuppressWarnings({ "rawtypes", "unchecked" })
 	public static void main(String[] args) {
 		Queue q=new LinkedList();
 		q.add("asif");

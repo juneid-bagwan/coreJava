@@ -13,6 +13,7 @@ public class triangle {
 
 		area=(h*base)/2;
 		System.out.println("area os triangle is "+area);
+		sc.close();
 	}
 
 }

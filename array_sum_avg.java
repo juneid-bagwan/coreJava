@@ -19,7 +19,7 @@ public class array_sum_avg {
 		}
 		avg=sum/a.length;
 		System.out.println("sum of number in array is :"+sum+"\n and average is: "+avg);
-
+sc.close();
 		}
 		
 	}

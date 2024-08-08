@@ -19,6 +19,7 @@ public class min_in_array {
 		}
 		}
 		System.out.println("minimum nubmer is :"+min);
+		sc.close();
 		
 	}
 

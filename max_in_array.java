@@ -18,7 +18,7 @@ public class max_in_array {
 		}
 		}
 		System.out.println("maximum number is :"+max);
-		
+			sc.close();
 
 	}
 

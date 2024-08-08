@@ -23,6 +23,7 @@ public class fruit_color {
 			default:
 				System.out.println("not fruit found");
 		}
+		sc.close();
 	}
 
 }

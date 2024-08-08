@@ -1,7 +1,7 @@
 package collections;
 
 import java.util.Vector;
-
+@SuppressWarnings({ "rawtypes", "unchecked" })
 public class VectorDemo {
 
 	public static void main(String[] args) {

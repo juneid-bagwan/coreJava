@@ -14,7 +14,7 @@ public class circle {
 		area= pi*r*r;
 		
 		System.out.print("area of circle is"+area);
-		
+		sc.close();
 	}
 
 }

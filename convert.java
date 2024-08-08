@@ -10,6 +10,7 @@ public class convert {
 		gm = sc.nextInt();
 		kg = gm / 1000;
 		System.out.println("weight in kilogram is " + kg);
+		sc.close();
 	}
 
 }

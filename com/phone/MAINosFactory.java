@@ -11,6 +11,7 @@ public class MAINosFactory {
 		int a=s.nextInt();
 		os myobj=osf.getdata(a);
 		myobj.spec();
+		s.close();
 		
 	}
 

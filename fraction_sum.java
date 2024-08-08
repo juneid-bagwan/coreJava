@@ -10,6 +10,7 @@ public class fraction_sum {
 		float b=sc.nextFloat();
 		float c=a+b;
 		System.out.println("c="+c);
+		sc.close();
 	}
 
 }

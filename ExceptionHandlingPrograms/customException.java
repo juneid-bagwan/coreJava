@@ -3,6 +3,11 @@ package ExceptionHandlingPrograms;
 class LowPercentException extends Exception {
 //	private static final long serialVersionUID = 1L;
 
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
 	public LowPercentException(String s) {
 		super(s);
 	}

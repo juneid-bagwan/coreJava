@@ -1,6 +1,6 @@
-import java.util.Scanner;
+//import java.util.Scanner;
 
-import byteFileHandling.byteFileReading;
+//import byteFileHandling.byteFileReading;
 
 public class SI {
 

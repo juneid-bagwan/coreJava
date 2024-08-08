@@ -4,7 +4,7 @@ import java.util.Iterator;
 import java.util.Stack;
 
 public class stackDemo {
-
+	@SuppressWarnings({ "rawtypes", "unchecked" })
 	public static void main(String[] args) {
 		Stack st=new Stack();
 		st.push("juneid");

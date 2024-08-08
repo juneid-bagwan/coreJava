@@ -3,7 +3,7 @@ package collections;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
-
+@SuppressWarnings("rawtypes")
 public class studentDetails {
 	int id;
 	String name;

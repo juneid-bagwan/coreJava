@@ -7,8 +7,11 @@ import java.util.Map;
 
 public class HashTableAndMap {
 
+	@SuppressWarnings("rawtypes")
 	public static void main(String[] args) {
+		@SuppressWarnings("unused")
 		Enumeration name;
+		@SuppressWarnings("unused")
 		String key;
 		Hashtable<Integer, String> ht=new Hashtable<Integer,String>();
 		ht.put(100, "juneid");
