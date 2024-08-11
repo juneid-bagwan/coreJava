@@ -39,6 +39,7 @@ public class detals_info {
 			String a6 = sc.next();
 			employee juneid = new employee(a1, a2, a3, a4, a5, a6);
 			juneid.show();
+			sc.close();
 		}
 	}
 

@@ -10,6 +10,7 @@ public class factorial_function {
 		a=sc.nextInt();
 		int res=fact(a);
 		System.out.println(res);
+		sc.close();
 	}
 
 		static int fact(int a) {

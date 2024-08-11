@@ -21,6 +21,7 @@ class student{
 }
 public class student_d {
 
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		student s=new student(001,21,"juneid");

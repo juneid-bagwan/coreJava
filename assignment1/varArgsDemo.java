@@ -2,6 +2,7 @@ package assignment1;
 
 public class varArgsDemo {
 
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		int a[]= {12,23,54};
 		int a1[]= {2,3,4};

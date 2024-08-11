@@ -54,6 +54,7 @@ public class Bank {
 				default:
 					System.out.println("invalid input.....");
 			}
+			sc.close();
 		}
 //		Iterator<Integer,Integer> itr=map.iterator();
 //		while(itr.hasNext()) {
