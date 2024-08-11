@@ -15,6 +15,7 @@ public class byteFileReading {
 			fin.read(filecontent);
 			String s=new String(filecontent);
 			System.out.println(s);
+			fin.close();
 		}catch(Exception e) {
 			System.out.println(e);
 		}
